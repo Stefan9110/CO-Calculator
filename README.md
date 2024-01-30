@@ -30,7 +30,7 @@ risk.
 1. Clone this repository
 
 ```bash
-git clone https://
+git clone https://github.com/Stefan9110/CO-Calculator.git
 ```
 
 2. Install the dependencies
@@ -49,5 +49,11 @@ export PATH=$PATH:~/.local/bin
 
 ```bash
 co-calculator
+```
+
+### Uninstall
+
+```bash
+make clean
 ```
 
